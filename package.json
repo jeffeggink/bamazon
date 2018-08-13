@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BamazonExecutive.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffeggink/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "jeffeggink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffeggink/bamazon/issues"
+  },
+  "homepage": "https://github.com/jeffeggink/bamazon#readme"
+}
