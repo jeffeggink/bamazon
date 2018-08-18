@@ -1,7 +1,7 @@
 {
   "name": "bamazon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Overview A Node.js & MySQL digital storefront. This is a command line Node app that mimics a beloved online retailer.",
   "main": "BamazonExecutive.js",
   "scripts": {
     "test": "test"
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/jeffeggink/bamazon/issues"
   },
-  "homepage": "https://github.com/jeffeggink/bamazon#readme"
+  "homepage": "https://github.com/jeffeggink/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.16.0",
+    "prompt": "^1.0.0"
+  }
 }

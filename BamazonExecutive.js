@@ -5,8 +5,9 @@ var Table = require('cli-table');
 var connection = mysql.createConnection({
 	host: 'localhost',
 	user: 'root',
-	password: '',
+	password: 'root',
 	database: 'Bamazon', 
+	port:'8089'
 });
 
 var newDept = [];
